@@ -1,0 +1,16 @@
+[
+  {
+    "id": "40414d31-d8e0-4a3e-b14c-d6a057f8d617",
+    "name": "AziKo ",
+    "phone": "49949494",
+    "email": "sada@mail.com",
+    "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus deleniti iusto harum dolorem ipsa officiis facere excepturi obcaecati, veniam iure, amet fugiat qui quo?"
+  },
+  {
+    "id": "418b9331-945d-40cd-92b8-cd49a8297194",
+    "name": "David",
+    "phone": "5461322321",
+    "email": "David24@email.com",
+    "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus deleniti iusto harum dolorem ipsa officiis facere excepturi obcaecati, veniam iure, amet fugiat qui quo?"
+  }
+]
